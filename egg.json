@@ -1,0 +1,10 @@
+{
+  "name": "otpauth",
+  "description": "One Time Password (HOTP/TOTP) library for Node.js, Deno and browsers",
+  "homepage": "https://github.com/hectorm/otpauth",
+  "files": [
+    "./**/*.ts",
+    "README.md"
+  ],
+  "entry": "./mod.ts"
+}
